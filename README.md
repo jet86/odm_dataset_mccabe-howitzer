@@ -5,6 +5,8 @@ Sample dataset of the McCabe Park Howitzer for use in [WebODM](https://github.co
 
 Also included is the training data (camera poses and sparse points) exported from WebODM to be used directly in OpenSplat or other Gaussian Splatting software.
 
+This dataset is released into the Public Domain as per the [license](LICENSE).
+
 ## Screenshots
 
 Screenshot of Gaussian Splat processed with WebODM and OpenSplat, displayed in WebODM:
